@@ -6,14 +6,15 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Objective
+Enthusiastic and motivated Computer Science graduate with a strong foundation in problem-solving, machine learning, and AI. Eager to begin a career in the IT industry to apply technical skills, learn cutting-edge technologies, and gain hands-on experience in a dynamic, innovative environment. Strong analytical and communication skills, combined with a passion for emerging technologies, make me a valuable candidate ready to contribute meaningfully to your organization.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at UCLA and coding stuffs.
+- 🎓 &nbsp; BE-Computer Engineering from pokhara university.
 
-- 🌱 &nbsp; Learning about different softwares and technologies.
+- 🌱 &nbsp;  interested in data and research based on  AI/ML
 
-- ✍️ &nbsp; Pursuing Web Development, Machine Learning and Open Source Development as a hobbie.
--   &nbsp; Took a break of 3 months from UCLA and Munched, snoozed, and babbled with AI/ML.
+- ✍️ &nbsp; Machine Learning, DAta science  and Open Source Development as a hobbie.
+-   &nbsp; interested in machine learnig/AI and data science 
 
 
 
@@ -32,7 +33,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Architecture Designing for Models | Different Training Methods Of Models
+- 🔧 &nbsp;  Architecture Designing for Models | Different Training Methods Of Models and algorithmns related to ML/AI
 
 <hr>
 
@@ -40,16 +41,16 @@
 
 <br/><br/>
 
-[Rohan's GitHub Stats]
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rs545837&show_icons=true&locale=en" alt="rs545837" /></p>
+[Amit's GitHub Stats]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajakAmit&show_icons=true&locale=en" alt="rs545837" /></p>
 
 <br/>
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github.com/RajakAmit/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajakAmit&show_icons=true)
 
 <br><br>
 
@@ -64,8 +65,7 @@
 <br>
 
 
-
 <p align="center">
-<a href="[(https://www.linkedin.com/in/amit-rajak-a43bb4190/)]" target="blank"><img align="center" src="(https://www.linkedin.com/in/amit-rajak-a43bb4190/)" alt="(https://www.linkedin.com/in/amit-rajak-a43bb4190/)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-rajak-a43bb4190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RajakAmit/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-rajak-a43bb4190/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rohan7053sharma/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rohan7053sharma/?hl=en" height="30" width="40" /></a>
 </p>
